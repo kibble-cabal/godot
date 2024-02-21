@@ -1,0 +1,6 @@
+[submodule "modules/godot_tracy"]
+	path = modules/godot_tracy
+	url = https://github.com/Pineapple/GodotTracy.git
+[submodule "modules/limboai"]
+	path = modules/limboai
+	url = https://github.com/limbonaut/limboai.git
